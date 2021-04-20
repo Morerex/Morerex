@@ -3,6 +3,7 @@
 - 🌱 Atualmente atuo como Analista de Desenvolvimento (Full Stack) em Front-End com Angular e Back-End em C# na TOTVS!
 - 💞️ Aqui coloco os projetos que faço pessoalmente faço para aprimoração do código e claro sempre busco colocar coisas que aprendi que possam ajudar os outros!
 - Podem me encontar aqui ou nas redes sociais abaixo: 
+-   LinkedIn : https://www.linkedin.com/in/gabriel-moreira-66b422151/
 -   Instagram : https://www.instagram.com/gabriel.morsan/
 -   Facebook : https://www.facebook.com/morerex
 -   Fico a disposiçao de todos e podem me chamar!
