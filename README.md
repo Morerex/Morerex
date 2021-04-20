@@ -5,5 +5,5 @@
 - Podem me encontar aqui ou nas redes sociais abaixo: 
 -   Instagram : https://www.instagram.com/gabriel.morsan/
 -   Facebook : https://www.facebook.com/morerex
-  Fico a disposiçao de todos e podem me chamar!Nada melhor que ter amigos/amigas Dev's.
+-   Fico a disposiçao de todos e podem me chamar!Nada melhor que ter amigos/amigas Dev's.
   Um abraço!
